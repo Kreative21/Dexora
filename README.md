@@ -98,7 +98,6 @@ The About section provides important information about Dexora, including:
 
 > Screenshots will be added here to showcase Dexora's interface and major features.
 
-<!-- Replace the paths below with your actual screenshot paths -->
 
 |                     Pokédex                    |                         Pokémon Details                        |
 | :--------------------------------------------: | :------------------------------------------------------------: |
