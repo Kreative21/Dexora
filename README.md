@@ -101,19 +101,19 @@ The About section provides important information about Dexora, including:
 
 |                     Pokédex                    |                         Pokémon Details                        |
 | :--------------------------------------------: | :------------------------------------------------------------: |
-| ![Pokédex Screenshot](screenshots/pokedex.png) | ![Pokémon Details Screenshot](screenshots/pokemon-details.png) |
+| ![Pokédex Screenshot](screenshots/pokedex.jpg) | ![Pokémon Details Screenshot](screenshots/pokemon-details.jpg) |
 
 |                     Move Dex                     |                       Ability Dex                      |
 | :----------------------------------------------: | :----------------------------------------------------: |
-| ![Move Dex Screenshot](screenshots/move-dex.png) | ![Ability Dex Screenshot](screenshots/ability-dex.png) |
+| ![Move Dex Screenshot](screenshots/move-dex.jpg) | ![Ability Dex Screenshot](screenshots/ability-dex.jpg) |
 
 |                     Item Dex                     |                     Type Dex                     |
 | :----------------------------------------------: | :----------------------------------------------: |
-| ![Item Dex Screenshot](screenshots/item-dex.png) | ![Type Dex Screenshot](screenshots/type-dex.png) |
+| ![Item Dex Screenshot](screenshots/item-dex.jpg) | ![Type Dex Screenshot](screenshots/type-dex.jpg) |
 
 |                       Team Builder                       |                     Settings                     |
 | :------------------------------------------------------: | :----------------------------------------------: |
-| ![Team Builder Screenshot](screenshots/team-builder.png) | ![Settings Screenshot](screenshots/settings.png) |
+| ![Team Builder Screenshot](screenshots/team-builder.jpg) | ![Settings Screenshot](screenshots/settings.jpg) |
 
 ## 🎨 Design
 
