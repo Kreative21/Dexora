@@ -1,8 +1,8 @@
-# Dexora
+# Déxora
 
 **A modern, feature-rich Pokédex for discovering, analyzing, and building Pokémon teams.**
 
-Dexora is a fully functional Pokédex application designed to provide a rich and convenient Pokémon reference experience in a modern dark-themed interface. From detailed Pokémon information and advanced search to team building, moves, abilities, items, types, natures, favorites, caught tracking, and more — Dexora brings the essential tools of a comprehensive Pokédex into one app.
+Déxora is a fully functional Pokédex application designed to provide a rich and convenient Pokémon reference experience in a modern dark-themed interface. From detailed Pokémon information and advanced search to team building, moves, abilities, items, types, natures, favorites, caught tracking, and more — Déxora brings the essential tools of a comprehensive Pokédex into one app.
 
 ## ✨ Features
 
@@ -62,7 +62,7 @@ Personalize your Pokédex experience:
 
 ### ⚙️ Settings
 
-Manage your Dexora experience from a dedicated settings section.
+Manage your Déxora experience from a dedicated settings section.
 
 Available options include:
 
@@ -96,7 +96,7 @@ The About section provides important information about Dexora, including:
 
 ## 🖼️ Screenshots
 
-> Screenshots will be added here to showcase Dexora's interface and major features.
+> Screenshots will be added here to showcase Déxora's interface and major features.
 
 
 |                     Pokédex                    |                         Pokémon Details                        |
@@ -117,7 +117,7 @@ The About section provides important information about Dexora, including:
 
 ## 🎨 Design
 
-Dexora features a **rich dark-mode interface** designed to provide a modern, immersive, and comfortable browsing experience.
+Déxora features a **rich dark-mode interface** designed to provide a modern, immersive, and comfortable browsing experience.
 
 The interface focuses on:
 
@@ -130,11 +130,11 @@ The interface focuses on:
 
 ## 🆓 Free to Use
 
-Dexora is **free to use**, providing its Pokédex functionality without requiring users to pay for access to the core features.
+Déxora is **free to use**, providing its Pokédex functionality without requiring users to pay for access to the core features.
 
 ## 🔐 Privacy & Terms
 
-Dexora provides dedicated **Privacy Policy** and **Terms of Use** information within the application.
+Déxora provides dedicated **Privacy Policy** and **Terms of Use** information within the application.
 
 Please refer to the corresponding documents in the repository or the **About** section of the app for the latest legal information.
 
@@ -142,7 +142,7 @@ Please refer to the corresponding documents in the repository or the **About** s
 
 Found a bug, have a feature request, or want to suggest an improvement?
 
-You can use Dexora's built-in **Help & Feedback** feature or open an issue in this repository.
+You can use Déxora's built-in **Help & Feedback** feature or open an issue in this repository.
 
 When reporting a bug, providing the following information can help:
 
@@ -156,17 +156,17 @@ When reporting a bug, providing the following information can help:
 
 ## 📜 License
 
-Dexora is currently **not open source**. The source code is not publicly available in this repository.
+Déxora is currently **not open source**. The source code is not publicly available in this repository.
 
-The repository is intended for project information, documentation, release information, screenshots, and other publicly available resources related to Dexora.
+The repository is intended for project information, documentation, release information, screenshots, and other publicly available resources related to Déxora.
 
 All rights reserved unless otherwise stated.
 
 ## 🙌 Acknowledgements
 
-Dexora would not be possible without the Pokémon community and the various open data resources that make Pokémon information accessible to developers and fans.
+Déxora would not be possible without the Pokémon community and the various open data resources that make Pokémon information accessible to developers and fans.
 
-**Pokémon and Pokémon character names are trademarks of Nintendo, Game Freak, and The Pokémon Company. Dexora is a fan-made application and is not affiliated with, endorsed, or sponsored by Nintendo, Game Freak, or The Pokémon Company.**
+**Pokémon and Pokémon character names are trademarks of Nintendo, Game Freak, and The Pokémon Company. Déxora is a fan-made application and is not affiliated with, endorsed, or sponsored by Nintendo, Game Freak, or The Pokémon Company.**
 
 ---
 
